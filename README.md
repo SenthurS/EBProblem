@@ -4,7 +4,7 @@ Units	Price (per unit)
 1 to 50	3
 51 to 100	5
 101 to 250	7
-251 and Above	10
+251 and Above	10 
 
 Appliance code	Appliance	Energy Consumed in Watts per hour
 RFG	Refrigerator	200
