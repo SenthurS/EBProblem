@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Scanner;
-
+ 
 public class EBRunnerPart1 {
 
 	public static void main(String[] args) {
